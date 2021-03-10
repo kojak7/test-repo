@@ -1,2 +1,2 @@
 # test-repo
-repo01
+This is my very first repository.
